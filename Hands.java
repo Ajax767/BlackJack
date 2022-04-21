@@ -49,13 +49,4 @@ public class Hands {
 			return total;
 		}
 	}
-	
-//	public static int getDealerHandValue() {
-//		int total = 0;
-//		for(Card temp : dealer) {
-//			total+= temp.getValue();
-//			
-//		}
-//		return total;
-//	}
 }
